@@ -1,7 +1,7 @@
 ## Team Members:
 Aditya Kanala - (002914764) <br>
 Shikhar Patel - (002273502) <br>
-Shubh Patel   - (002822971) <br>
+Shubh Patel   -  (002822971) <br>
 # DAMG7245_Team5_Assignment1
 Build an optimal data pipeline architecture for a personalized Financial News Aggregator named Fumble and document the design process and the service of each resource being used with a proper justification and scope of future improvements.
 <br><br>The architecture has been designed using the Python's Diagrams package and it's libraries. 
