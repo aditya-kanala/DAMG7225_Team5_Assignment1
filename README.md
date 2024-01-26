@@ -12,5 +12,5 @@ Build an optimal data pipeline architecture for a personalized Financial News Ag
 <li>Get a sharable link with access to the google doc file with “Anyone with the link” and “Viewer” access https://docs.google.com/document/d/1p5ysK51slFwN5Jy3RqgzmJ6hxtisLiG2SzGBf233sDg/edit#heading=h.9vgmrfhey8ce <br>
 <li>Get the DocId from the above link which is the long string near the end of the URL (right after docs.google.com/document/d/).<br>
 <li>Use the Preview Google Codelab extension, which is a one time installation https://chromewebstore.google.com/detail/preview-codelab/lhojjnijnkiglhkggagbapfonpdlinji?pli=1 <br> or <br>
-<li>Navigate manually to https://codelabs-preview.appspot.com/?file_id=1p5ysK51slFwN5Jy3RqgzmJ6hxtisLiG2SzGBf233sDg This would be the link to preview your code labs link online
+<li>Navigate manually to https://codelabs-preview.appspot.com/?file_id=1p5ysK51slFwN5Jy3RqgzmJ6hxtisLiG2SzGBf233sDg This would be the link to preview your code labs link online.
 
